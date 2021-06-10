@@ -1,2 +1,1 @@
-# fmc1-coq
-"# lf" 
+"# fmc1-coq" 
